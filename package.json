@@ -1,0 +1,17 @@
+{
+  "name": "orange-famou-burkina-apk",
+  "version": "1.0.0",
+  "description": "Orange Famou — Apprentissage des langues locales du Burkina Faso (Mooré, Dioula) — Android",
+  "private": true,
+  "scripts": {
+    "sync": "cap sync android",
+    "open:android": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
